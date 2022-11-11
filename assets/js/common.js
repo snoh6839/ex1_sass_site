@@ -102,5 +102,6 @@ $(function(){
   }).mouseout(function(){
     $('td').removeClass('hover');
   });
+
   
 });
